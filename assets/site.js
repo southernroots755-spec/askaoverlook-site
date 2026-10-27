@@ -25,7 +25,7 @@
       if (loaded) return;
       if (status) status.hidden = true;
       if (fallback) fallback.hidden = false;
-    }, 7000);
+    }, 12000);
   });
 
   // Photo lightbox
